@@ -1,2 +1,2 @@
 # PSAR-SR
-This code and model will be made public soon.
+This code and model will be online.
